@@ -1,6 +1,6 @@
 # Satyam Naidu
 
-![Headshot](./headshot.jpg)
+![Headshot](./headshot.jpeg)
 
 📧 Naveenkumar81447@gmail.com  
 🔗 [LinkedIn](http://www.linkedin.com/in/Naveen00)
