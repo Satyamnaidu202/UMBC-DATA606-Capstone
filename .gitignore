@@ -1,0 +1,73 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+.history/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Logs & temp files
+# =========================
+*.log
+*.tmp
+*.swp
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Data files (IMPORTANT for your project)
+# =========================
+data/*.csv
+data/*.xlsx
+data/*.json
+
+# If you want to keep cleaned dataset but ignore raw:
+# data/hotel_bookings.csv
+# !data/hotel_bookings_clean.csv
+
+# =========================
+# Model files
+# =========================
+models/
+*.pkl
+*.joblib
+*.h5
+
+# =========================
+# Streamlit (if used)
+# =========================
+.streamlit/
