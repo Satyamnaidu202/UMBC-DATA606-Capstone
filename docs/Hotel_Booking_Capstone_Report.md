@@ -12,7 +12,7 @@
 | GitHub Repository | [github.com/[username]/hotel-booking-capstone](https://github.com/[username]/hotel-booking-capstone) |
 | LinkedIn Profile | [linkedin.com/in/[username]](https://linkedin.com/in/[username]) |
 | PowerPoint Presentation | Available in repository |
-| YouTube Video | Available upon completion |
+| YouTube Video | https://youtu.be/jMGqzE35N5k |
 
 ---
 
